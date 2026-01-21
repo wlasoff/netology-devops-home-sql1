@@ -35,8 +35,7 @@ kubectl exec -n app $BACKEND_POD -- timeout 3 curl -v http://frontend.app.svc.cl
 kubectl exec -n app $FRONTEND_POD -- timeout 3 curl -v http://cache.app.svc.cluster.local
 ```
 
-<img width="1195" height="479" alt="image" src="https://github.com/user-attachments/assets/c08ed7b0-1113-4951-8dda-352d7d971808" />
+### Изменил порт на 8080
 
-<img width="1230" height="214" alt="image" src="https://github.com/user-attachments/assets/e14b645c-0d3e-4113-a764-cefdc99a572a" />
+<img width="901" height="200" alt="image" src="https://github.com/user-attachments/assets/5c198b14-34b6-466b-a04f-a4c92560b222" />
 
-<img width="1197" height="210" alt="image" src="https://github.com/user-attachments/assets/34ef5c7f-33e8-4b47-a980-249ab4ff5e07" />
