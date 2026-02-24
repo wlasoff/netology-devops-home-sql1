@@ -33,7 +33,7 @@
 
 
 
-![Установка MySQL](https://github.com/wlasoff/netology-devops-home-ddl-dml/blob/main/img/db.png)
+![Установка MySQL](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/sql1.png)
 
 
 ---
@@ -48,7 +48,7 @@
 
 
 
-![Установка MySQL](https://github.com/wlasoff/netology-devops-home-ddl-dml/blob/main/img/db.png)
+![Установка MySQL](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/sql1.png)
 
 
 ---
