@@ -70,7 +70,7 @@ Master-Master (Multi-Master)
 
 Состояния и режим работы master сервера:
 
-![status master server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/rpl1.png)
+![status master server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/repl1.png)
 
 Состояния и режим работы slave сервера:
 
