@@ -69,16 +69,20 @@ Master-Master (Multi-Master)
 ### Ответ на задание 2
 
 Состояния и режим работы master сервера:
+
 ![status master server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/rpl1.png)
 
 Состояния и режим работы slave сервера:
+
 ![status slave server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/rpl2.png)
 
 Создадим на master сервере новую таблицу:
+
 ![table master server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/rpl3.png)
 
 
 Проверим появление таблицы на slave сервере:
+
 ![status slave server](https://github.com/wlasoff/netology-devops-home-sql1/blob/main/img/rpl4.png)
 
 Репликация настроена и работает!
